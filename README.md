@@ -1,8 +1,8 @@
-# 💫 About Me:
-- 👋 Hi, I’m **Mustafa Karaca**.<br>- 🎓 Computer Programming Student at **KTU**.<br>- 💻 **Backend Developer** focused on the **.NET Ecosystem (C#, EF, MSSQL)**.<br>- 🎯 Future Goal: Becoming a **DevOps Engineer** to bridge the gap between code and operations.<br>- 🛠️ Currently exploring: CI/CD pipelines, Automation tools, and System Architecture.<br>- ⚡ Passion: Optimizing workflows and automating repetitive tasks.
+#  About Me:
+-  Hi, I’m **Mustafa Karaca**.<br>- 🎓 Computer Programming Student at **KTU**.<br>- 💻 **Backend Developer** focused on the **.NET Ecosystem (C#, EF, MSSQL)**.<br>- 🎯 Future Goal: Becoming a **DevOps Engineer** to bridge the gap between code and operations.<br>- 🛠️ Currently exploring: CI/CD pipelines, Automation tools, and System Architecture.<br>- ⚡ Passion: Optimizing workflows and automating repetitive tasks.
 
 
-## 🌐 Socials:
+##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mstfkrca_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mustafa-karaca-dev/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@karacamustafa982) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karacamustafa982@gmail.com) 
 
 # 💻 Tech Stack:
